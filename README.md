@@ -6,7 +6,7 @@ This repository contains the implementation of a Residual Neural Network (ResNet
 
 ## Requirements
 
-- Python 3.x
+- Python
 - PyTorch
 - Torchvision
 - NumPy
